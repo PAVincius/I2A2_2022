@@ -1,6 +1,6 @@
 ![Header](./utils/Header.png)
 
-##[Portuguese Version]
+[Portuguese Version]
 
 # TÓPICO: 
 Tomada de Decisão Baseada em Dados
@@ -22,7 +22,7 @@ Profissionais que querem compreender como transformar dados em vantagem competit
 
 
 
-##[English Version]
+[English Version]
 
 # TOPIC: 
 Data-Based Decision Making
