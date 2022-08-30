@@ -20,7 +20,7 @@ Profissionais que querem compreender como transformar dados em vantagem competit
 
 - Soft-Skills para enfrentar desafios de liderança e gestão
 
-
+___
 
 [English Version]
 
@@ -41,3 +41,12 @@ Professionals who want to understand how to turn data into a competitive advanta
 - How to build a journey to collect the relevant data for your decision-making process
 
 - Soft-skills to meet leadership and management challenges
+
+___
+
+## Socials
+
+[![Foo](./utils/LinkedIn.png)](https://www.linkedin.com/school/institut-i2a2/?viewAsMember=true)
+
+[![Foo](./utils/Site.png)](https://www.i2a2.academy/pt)
+
