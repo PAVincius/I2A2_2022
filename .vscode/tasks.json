@@ -1,0 +1,10 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Compile Markdown",
+            "type": "shell",
+            "command": "markdown-it Business_Problem.md -o Business_Problem.html"
+        }
+    ]
+}
