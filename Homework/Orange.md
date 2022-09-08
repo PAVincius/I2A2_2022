@@ -22,3 +22,4 @@ Let's select a ScatterPlot from the Visualize tab on the left side of the screen
 
 VOILA!:tada: you finished your first workflow! :).
 
+more at: https://www.youtube.com/playlist?list=PLmNPvQr9Tf-ZSDLwOzxpvY-HrE0yv-8Fy
