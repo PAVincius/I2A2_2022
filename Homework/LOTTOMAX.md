@@ -12,3 +12,6 @@ According to an initial analysis, we observe the distribution going from left to
 
 ![DISTRIBUTION](../utils/Distribution_LOTTOMAX.png)
 
+## Calculating the Information Entropy
+
+[Link for the script](/Homework/LOTTOMAX_ENTROPY.py)
